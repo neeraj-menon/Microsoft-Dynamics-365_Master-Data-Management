@@ -1,4 +1,6 @@
 
+# Why would anyone want a Single View of their Data
+
 Having a single view of data is beneficial for various reasons beyond personalization, data consistency, and compliance. Here are some additional motivations for organizations to strive for a unified view of their data:
 
 ### 1. Improved Decision-Making
